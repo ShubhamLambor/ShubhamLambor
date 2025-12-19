@@ -3,21 +3,21 @@
 
 <!-- SHORT INTRO -->
 <p align="center">
-Flutter Developer • Mobile App Development Learner • Aspiring Software Engineer
+Flutter & Android Developer • Mobile App Development Learner • Aspiring Software Engineer
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I’m a **Flutter Developer** who enjoys building clean, user-friendly mobile applications.  
-Currently focused on improving my skills in **Flutter**, **Android fundamentals**,  
-and exploring how **AI/ML** can be integrated into real-world apps.
+I’m a **Flutter + Android Developer** who enjoys building clean, user-friendly mobile applications.  
+I work with **Flutter (Dart)** and **Android (Java/Kotlin)**, focusing on simple UI, good performance,  
+and real-world problem solving. I’m also exploring **AI/ML basics** to enhance mobile apps.
 
 ---
 
 ### 🌱 Currently Learning
 - Flutter & Dart  
-- Android Fundamentals  
+- Android (Java / Kotlin)  
 - Firebase  
 - AI/ML Basics  
 
@@ -25,8 +25,8 @@ and exploring how **AI/ML** can be integrated into real-world apps.
 
 ### 🤝 Open to Collaborate On
 - Flutter Mobile Applications  
-- UI-focused & clean architecture projects  
-- Beginner-friendly AI-integrated apps  
+- Android Apps (Native)  
+- Cross-platform + native hybrid projects  
 
 ---
 
@@ -38,7 +38,7 @@ and exploring how **AI/ML** can be integrated into real-world apps.
 
 ### 🛠️ Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,git,github,figma,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java,firebase,git,github,figma,mysql,mongodb" />
 </p>
 
 ---
@@ -51,6 +51,6 @@ and exploring how **AI/ML** can be integrated into real-world apps.
 ---
 
 ### 🎯 Current Focus
-- Building real-world **Flutter apps**  
-- Improving UI & performance  
+- Building **Flutter & Android apps**  
+- Improving UI/UX and app performance  
 - Preparing for **Mobile Developer internships**
