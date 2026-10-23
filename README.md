@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShubhamLambor&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
  <h2 align="center">Hi 👋, I'm Shubham Lambor</h2>
 
 <p align="center">
